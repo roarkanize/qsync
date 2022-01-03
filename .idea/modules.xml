@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/qsyncd.iml" filepath="$PROJECT_DIR$/.idea/qsyncd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/qsync.iml" filepath="$PROJECT_DIR$/.idea/qsync.iml" />
     </modules>
   </component>
 </project>
